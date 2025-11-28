@@ -1,4 +1,4 @@
-## 🜁 Its Jude
+## Hi✨ Its Jude
 
 **`Coding Explorer(student/amateur/learner)`**
 >"*When you build in silence,
