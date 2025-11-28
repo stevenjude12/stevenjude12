@@ -15,5 +15,5 @@ Still wondering whether CSC is the right choice
 ---
 🛠️**Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=cpp">
+<img src="https://skillicons.dev/icons?i=cpp"> <img src="https://skillicons.dev/icons?i=python"> <img src="https://skillicons.dev/icons?i=html">
 
