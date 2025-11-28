@@ -11,4 +11,7 @@ Fun Fact:
 I am a student who tries to fully understand coding and to use it efficiently
 
 Still wondering whether CSC is the right choice
+---
+🛠️**Tech Stack**
+<img src="https://skillicons.dev/icons?i=cpp">
 
