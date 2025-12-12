@@ -1,8 +1,7 @@
 ## Hi✨ Its Jude
 
 **`Coding Explorer(student/amateur/learner)`**
->"*When you build in silence,
->  people dont know what to attack*"
+>“*Stand where others would break, and the world rearranges around you.*”
 
 - 🔭 I’m currently working on creating an app
 - 🌱 I’m currently learning DSA
