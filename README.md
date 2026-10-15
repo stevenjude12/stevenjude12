@@ -6,9 +6,6 @@
 - 🔭 I’m currently working on creating an app
 - 🌱 I’m currently learning DSA
 
-Fun Fact:
-Still trying to fully understand coding and to use it efficiently
-
 ---
 🛠️**Tech Stack**
 
