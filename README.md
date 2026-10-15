@@ -1,6 +1,6 @@
 ## Hi✨ Its Jude
 
-**`Coding Explorer(student/amateur/learner)`**
+**`Hardware Explorer(student/amateur/learner)`**
 >“*Stay hungry, Stay foolish*”
 
 - 🔭 I’m interested in working with hardware projects
